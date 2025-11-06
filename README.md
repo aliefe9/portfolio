@@ -1,7 +1,8 @@
 # Student 
 
 ### Education
-Mathematics and Statistic 
+Mathematics and Statistic Major
+Economics Minor
 
 ### Work Experience 
 '''
