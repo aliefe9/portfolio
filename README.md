@@ -2,6 +2,7 @@
 
 ### Education
 Mathematics and Statistic Major
+
 Economics Minor
 
 ### Work Experience 
